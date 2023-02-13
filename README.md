@@ -12,7 +12,7 @@ Before you start, make sure you have the following software installed on your sy
 To install the project, follow these steps:
 
 1.  Clone the repository to your local machine:
-`git clone https://github.com/[username]/cypress-test-project.git`
+`git clone https://github.com/dusan011/mostly-task.git`
 
 2. Navigate to the project folder:
    `cd cypress-test-project`
