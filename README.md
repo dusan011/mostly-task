@@ -36,6 +36,3 @@ The test results are generated in the `reports` folder in the root of the projec
 
 If you want to contribute to this project, please fork the repository, make your changes, and create a pull request.
 
-## License
-
-This project is licensed under the [MIT license](https://chat.openai.com/LICENSE).
