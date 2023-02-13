@@ -1,0 +1,19 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:headed":"cypress run --spec cypress/e2e/mostly.cy.ts --browser chrome --headed",
+    "cy:headless":"cypress run --spec cypress/e2e/mostly.cy.ts --browser chrome --headless"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.5.1",
+    "cypress-mochawesome-reporter": "^3.3.0",
+    "typescript": "^4.9.5"
+  }
+}

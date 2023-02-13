@@ -1,0 +1,9 @@
+{
+  "firstName": "testFirstName",
+  "lastName":"testLastName",
+  "businessEmail":"testemail@business.com",
+  "mobilePhone":123,
+  "organizationName":"testOrganization",
+  "country":"Austria",
+  "message":"testMessage"
+}
