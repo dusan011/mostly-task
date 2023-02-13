@@ -15,7 +15,7 @@ To install the project, follow these steps:
 `git clone https://github.com/dusan011/mostly-task.git`
 
 2. Navigate to the project folder:
-   `cd cypress-test-project`
+   `cd mostly-task`
 
 3.  Install the dependencies using npm:
   `npm install`
